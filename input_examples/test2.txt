@@ -1,0 +1,14 @@
+tower1 tower2 .
+tower2 tower1 .
+tower3 tower4 .
+tower7 tower1 .
+tower2 tower7 .
+tower3 tower1 .
+tower1 tower7 ?
+tower1 tower3 ?
+tower1 tower4 ?
+
+
++ tower1 => tower7
+- tower1 => tower3
+- tower1 => tower4

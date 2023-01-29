@@ -1,0 +1,8 @@
+tower1 tower2 .
+tower2 tower3 .
+tower4 tower5 .
+tower5 tower6 .
+tower6 tower7 .
+tower1 tower7 ?
+
++ tower1 => tower7

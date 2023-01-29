@@ -1,0 +1,10 @@
+Tower_A   Tower_B.
+ Tower_B Tower_C .
+Tower_A Tower_C?    # A query
+Tower_B Tower_D.
+ Tower_A  Tower_D ?  # Another query
+Tower_F Tower_E.
+ Tower_D  Tower_B ?  # A third query
+xxxx  yyyy?          # Unknown tower names
+ Tower_D  Tower_B .
+ Tower_D  Tower_B ?  # Now there is a link

@@ -1,0 +1,9 @@
+tower1 tower2      .#ppmcgunga
+tower1 tower1? 				# NERDNECK
+tower1 tower7?
+tower7 tower1 			.
+tower1 tower7	? #coding is fun
+
++ tower1 => tower1
+- tower1 => tower7
+- tower1 => tower7

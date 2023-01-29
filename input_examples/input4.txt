@@ -1,0 +1,18 @@
+tower1 tower4.
+tower2 tower3.
+tower4 tower2.
+tower1 tower3?
+tower1 tower2?
+tower4 tower3?
+tower5 tower6.
+tower6 tower1.
+tower5 tower4?
+tower5 tower1?
+tower6 tower4?
+
++ tower1 => tower3
++ tower1 => tower2
++ tower4 => tower3
++ tower5 => tower4
++ tower5 => tower1
++ tower6 => tower4
